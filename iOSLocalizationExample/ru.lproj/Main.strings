@@ -1,0 +1,42 @@
+/* Class = "UILabel"; text = "Donald J. Trump"; ObjectID = "1Kb-3j-2j4"; */
+"1Kb-3j-2j4.text" = "Владимир Путин";
+
+/* Class = "UILabel"; text = "Monetary unit"; ObjectID = "3od-PH-t8Q"; */
+"3od-PH-t8Q.text" = "Денежная единица";
+
+/* Class = "UILabel"; text = "Vice President"; ObjectID = "B6m-Rj-nAm"; */
+"B6m-Rj-nAm.text" = "премьер-министр";
+
+/* Class = "UILabel"; text = "Literacy rate: 99% (2003 est.)"; ObjectID = "JdZ-3J-EK5"; */
+"JdZ-3J-EK5.text" = "Уровень грамотности: 99,7% (2010 оц.)";
+
+/* Class = "UILabel"; text = "Michael Pence"; ObjectID = "JyW-HA-bgc"; */
+"JyW-HA-bgc.text" = "Дмитрий Медведев";
+
+/* Class = "UILabel"; text = "President"; ObjectID = "Jzq-Mz-U6f"; */
+"Jzq-Mz-U6f.text" = "президент";
+
+/* Class = "UILabel"; text = "318,892,103 (growth rate: 0.77%); birth rate: 13.42/1000; infant mortality rate: 6.17/1000; life expectancy: 79.56; density per sq mi: 88.6"; ObjectID = "OPB-X3-YEw"; */
+"OPB-X3-YEw.text" = "142 470 272 (темп роста: -0,03%); рождаемость: 11,87 / 1000; коэффициент детской смертности: 7,08 / 1000; ожидаемая продолжительность жизни: 70,16; плотность на кв. миль: 21,5";
+
+/* Class = "UILabel"; text = "About Country"; ObjectID = "SGv-zQ-zki"; */
+"SGv-zQ-zki.text" = "О стране";
+
+/* Class = "UILabel"; text = "Dollar ($)"; ObjectID = "VW6-FO-Mcp"; */
+"VW6-FO-Mcp.text" = "Российский рубль (₽)";
+
+/* Class = "UIButton"; normalTitle = "Show Message"; ObjectID = "dbe-7i-EUs"; */
+"dbe-7i-EUs.normalTitle" = "Показать сообщение";
+
+/* Class = "UILabel"; text = "Population (2014 est.)"; ObjectID = "e3T-OR-0OT"; */
+"e3T-OR-0OT.text" = "Население (2014 год).";
+
+/* Class = "UILabel"; text = "United States"; ObjectID = "qHu-P7-lfQ"; */
+"qHu-P7-lfQ.text" = "Россия";
+
+/* Class = "UILabel"; text = "Land Area"; ObjectID = "vOo-QM-4Vc"; */
+"vOo-QM-4Vc.text" = "Площадь земельного участка";
+
+/* Class = "UILabel"; text = "3,539,225 sq mi (9,166,601 sq km)"; ObjectID = "wxt-7j-TRb"; */
+"wxt-7j-TRb.text" = "6 592 812 кв. Миль (17 075 400 кв. Км)";
+
